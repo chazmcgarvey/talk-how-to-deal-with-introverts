@@ -1,0 +1,12 @@
+
+#slide-dilbert-energy-drain img,
+#slide-dilbert-programming img {
+    width: 100%;
+}
+
+#slide-last .talkqr img {
+    display: inline-block;
+    width: 230px;
+    height: 230px;
+}
+
