@@ -1,2 +1,4 @@
 *.tif
 /.cs_workspaces
+/remark.min.js
+/slides-offline.html

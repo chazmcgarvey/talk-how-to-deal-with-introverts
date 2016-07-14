@@ -1,12 +1,33 @@
 
+#slide-blank-stare img {
+    width: 500px;
+}
+
+#slide-happy-to-stay-home img {
+    display: inline-block;
+    width: 300px;
+}
+
 #slide-dilbert-energy-drain img,
 #slide-dilbert-programming img {
     width: 100%;
 }
 
+.my-story blockquote {
+    font-size: 1.2em;
+}
+.my-story blockquote:before {
+    content: none;
+    display: none;
+}
+
+#slide-open-office img {
+    display: inline-block;
+    width: 70%;
+}
+
 #slide-last .talkqr img {
     display: inline-block;
     width: 230px;
-    height: 230px;
 }
 

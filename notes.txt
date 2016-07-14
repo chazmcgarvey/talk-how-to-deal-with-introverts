@@ -9,8 +9,14 @@ And how to deal with extroverts
 
 What is introversion? Extroversion?
 Stories
-A word about hiring and onboarding
+A word about hiring and onboarding?
 Statistics about introversion
+
+- Answer "What is introversion?"
+- Develop an understanding of why people act as they do.
+- Learn ways to cope with your own introversion.
+- Identify the challenges inherent in working with introverts.
+- Explore practical ways to effectively deal with introverts.
 
 ## Abstract
 
@@ -40,7 +46,7 @@ Speaking of Picard, what a great example of an effective introvert. See clip
 of Picard trying to relax on shore leave but women are talking with him
 because Riker gave him a trinket that is culturally significant.
 
-Separate the condition with the apparent or supposed results.
+Separate the condition from the apparent or supposed results.
 - It's not aspergers or autism.
 - Rage quitting and abusive nerds online.
 - Social awkwardness.
@@ -58,23 +64,23 @@ It's good to try to be more well-rounded. Try to put yourself out there, but
 understand your effective limitations. Building meaningful relationships is
 cool.
 
+Introverts need extroverts and visa versa. We compliment each other. A world
+without extroverts would be quite dull.
+
 Introverts don't need to be coddled. Certain individuals (introvert or
 extrovert) may feel they need that, but introverts don't inherently need that.
 In fact that may be very anti-productive. Because of the energy requirements
 of introverts, they do need special consideration, that's true. But not
 coddling.
 
-One of the most cringeworthy concepts for an introvert is breaking out of
+One of the most cringe-worthy concepts for an introvert is breaking out of
 one's "comfort zone." This phrase is bandied out constantly, but little time
 is spent considering whether or not doing so has real benefits that the person
 should care about. It may be beneficial, but we all seem to have this
 assumption that we all should be breaking out of our comfort zones, but should
 we really all be striving to do that? Yes and no.
 
-Try not to put introverts "on the spot". You'll likely get a blank expression
-in return. Seed the discussion beforehand. Send out a list or summary of
-things to think about before a planned meeting and make sure they know what
-will be expected of them.
+### Deadlines
 
 Don't rush introverts. When you ask them a question that they don't
 immediately know the answer to, you may get a blank expression that may make
@@ -89,6 +95,24 @@ available. They are data driven (is this true?) that may have more to do with
 right brain lift brain differences. Introverts can be very creative. Although
 an introvert may effectively fill my roll, some things may simply be done
 better by an extrovert.
+
+Introverts can handle complexity, but they do better when they can focus on
+one or two areas. More than this, and there is risk that the introvert will
+become overwhelmed and then be less effective.
+
+### Communication
+
+Even though an introvert may be bad at face-to-face communication, they may do
+just fine at other types of communication. Email, intranet chat, things like
+that are much less stimulating and give introverts plenty of time to gather
+their thoughts and formulate proper responses.
+
+Introverts can be so good at those types of communication, you may not even
+realize they're introverted. (Until you meet them face to face. Then it may
+become painfully obvious. It's like: you were so articulate and well-spoken in
+your email, and here you can barely string two sentences together!)
+
+### Meetings
 
 In a meeting or other social setting, it's not unlikely to find the introverts
 there may seem to not be participating. What may be happening is that they may
@@ -112,37 +136,93 @@ sit back and let the extrovert say everything. While some introverts may even
 be fine with extroverts getting all the credit, you should be aware that many
 those ideas may have come from the introvert.
 
+Try not to put introverts "on the spot". You'll likely get a blank expression
+in return. Seed the discussion beforehand. Send out a list or summary of
+things to think about before a planned meeting and make sure they know what
+will be expected of them.
+
+### Atmosphere, office stressors
+
+Stimulation (note steril slides).
+
 Some introverts may be prone to not remembering "trivial" details... such as
 people's names. If you struggle with this, work on it. Sometimes you see
 somebody but you just don't care enough to actually see them. Start to care.
 
-Introverts need extroverts and visa versa. We compliment each other. A world
-without extroverts would be quite dull.
+## About Me
 
 Most of what I know about how to deal with introverts I learned from how my
 boss and coworkers deal with me.
 
-## About Me
+I wouldn't say that my story is unique at all.
 
-I am not in HR. I'm actually a software developer, but I learned of and then
+I am not in HR. I'm actually a software developer. I learned of and then
 became interested in understanding introversion when I was at a point in my
 life where I was trying to understand myself. When I was growing up, I was
 often frustrated that I wasn't more like my extrovert peers. I enjoyed and had
-fun with my friends -- fortunately my friends enjoyed many introverted
-activities -- but I noticed that I had many personality traits that were
-considered undesirable at the time. Unfortunately, I often made the mistake of
-caring what my peers thought of me, and that had some effect on my self
-esteem. Actually, I made the far-more foolish mistake of believing in and
-caring what I *thought* my peers thought of me.
+fun with my friends -- fortunately for me, my friends enjoyed many introverted
+activities -- but I also enjoyed (read: needed) down time, and I was ashamed
+of that difference. That was at least one part of my personality that
+I identified as an undesirable trait.
 
-My experience made me uncomfortable being me, which is awful because I wasn't
+Unfortunately, I often made the mistake of caring what my peers thought of me,
+because all kids do care about that, and that had some effect on my self
+esteem. It was worse than that, though: I made the far-more foolish mistake of
+believing in and caring what I *thought* my peers thought of me.
+
+My life experience made me uncomfortable being me, which is awful because I wasn't
 about to be anyone else. After I realized how silly I was being by putting so
 much weight behind what others may have thought about me, my discomfort left
-and I was able to be happy again. I think this experience, to varying degrees,
-is shared by many people of a variety of personality types, but (introvert
-suicide rates). If you can relate to the experience I shared and are still
-clinging to the false idea that your value should be so closely tied to what
-others think of you (or what you imagine others think about you), please let
-go of that notion! This is the most important thing you could take away from
-this presentation.
+and I was able to be happy again.
+
+I think this experience, to varying degrees, is shared by many people of
+a variety of personality types. If you can relate to the experience I shared
+and are still clinging to the false idea that your self-worth should be
+unhealthily tightly coupled with what others think of you (or what you imagine
+others think about you), please let go of that notion! This is the most
+important thing you could take away from this presentation.
+
+But don't mistake me: I'm not saying that you should have no care at all for
+what other people think of you. That would also be a sad and unfortunate way
+to live. As with most things, you need a balance. Caring how others regard you
+will help you accept criticism when it is founded, and the balanced
+perspective will help you reject baseless criticism.
+
+For all the introspecting that introverts are supposed to be doing, they can
+be really bad at viewing themselves accurately. Poor self-esteem affects
+introverts and extroverts alike. It's often caused by bad assumptions going
+in, so even introverts can't come to more enlightened conclusions by
+themselves. Thoughts like "I am not a good person" attach themselves deeply
+within the mind, and once they grab hold they're hard to shake.
+
+So, bottom line: if you are not comfortable in your own skin, make a change.
+Get a new perspective. If you are introverted, there are simple things that
+you can do to "manage" your introversion.
+- First, learn and understand how you function.
+- Stay on top of your schedule so you don't run out of energy. If you know you
+  will be around people, compensate be carving out time in your schedule to
+  rest up.
+- Know your limits, and don't feel bad by saying "no" to some social events.
+
+## Quotes
+
+"What a lovely surprise to finally discover how unlonely being alone can be."
+-- Ellen Burstyn
+
+Unlike extroverts, who were their personalities on their sleeves, introverts
+often keep their best to themselves. With extroverts you see what you get.
+With introverts, what you see is only a portion of their personality. The
+richest and most trusted parts of an introvert's personality are not
+necessarily shared with the outside world. It takes time, trust, and special
+circumstances for them to begin to open up.
+-- Otto Kroeger and Janet Thuesen from "Type Talk at Work"
+
+
+Disclaimer: I like introverts and extroverts equally. Seriously. Now, I'm
+going to be talking introverts up a little bit during this presentation, and
+in case I don't give equal time to both type's good and bad qualities, I just
+want it to be clear that they're both great. Both types have different
+strengths and different weaknesses, but they actually complete each other, as
+corny as that sounds. The world is a better place because of both introverts
+and extroverts.
 

@@ -6,7 +6,7 @@ DOT     = dot
 dotfiles = $(shell find . -iname '*.dot')
 svgfiles = $(patsubst %.dot,%.svg,$(dotfiles))
 
-all: $(svgfiles)
+all: offline
 
 clean:
 	rm -f slides-offline.html remark.min.js $(SLIDES).pdf $(svgfiles)
